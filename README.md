@@ -1,0 +1,1 @@
+ssd transition process without data loss in Kubernetes cluster
